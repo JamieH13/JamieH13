@@ -24,6 +24,11 @@ I'm **Jamie Howie** 🕶️, a Machine Learning Data Scientist with a strong bac
 🌱 I’m currently experimenting with Natural Language Processing (NLP) and Deep Learning (keras, tensorflow)
 
 ## Projects
+- ['Oumuamua: An Unexpected Solar System Visitor](https://nbviewer.org/github/JamieH13/Oumuamua/blob/main/%27Oumuamua%20An%20Unexpected%20Solar%20System%20Visitor.pdf)
+A statistical analysis of the origin of the first interstellar object detected in our solar system
+
+
+
 
 <!--
 **JamieH13/JamieH13** is ca ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,7 +6,7 @@ I'm **Jamie Howie** 🌱, a Machine Learning Data Scientist with a strong backgr
 ## Data Science Stack
 
 - 🐍 Python
-  - scikit-learn, numpy, pandas, networkx
+  - scikit-learn, numpy, pandas, scipy, networkx, matplotlib
 - 📊 Tableau
 - 📂 SQL
 - ☁️ AWS Cloud Computing

@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm **Jamie Howie** 🕶️, a Machine Learning Data Scientist with a strong background in a Mathematics, Statistics and Physics. I have an Astrophysics B.A 🪐 from the University of Cambridge 🎓, and a passion for business analytics. I am currently specialising in the use of random forests 🌲 to optimise Business2Business marketing, and helping businesses reach their full potential.
+I'm **Jamie Howie** 🕶️, a Machine Learning Data Scientist with a strong background in a Mathematics, Statistics and Physics. I have an Astrophysics B.A 🪐 from the University of Cambridge 🎓, and a passion for business analytics. I am currently specialising in the use of Random Forests 🌲 to optimise Business2Business marketing, and helping businesses reach their full potential.
 
 ## Data Science Stack
 
@@ -23,8 +23,12 @@ I'm **Jamie Howie** 🕶️, a Machine Learning Data Scientist with a strong bac
 
 🌱 I’m currently experimenting with Natural Language Processing (NLP) and Deep Learning (keras, tensorflow)
 
+## Projects
+
 <!--
 **JamieH13/JamieH13** is ca ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+## Projects
 
 Here are some ideas to get you started:
 

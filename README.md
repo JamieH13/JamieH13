@@ -15,7 +15,7 @@ I'm **Jamie Howie** 🥑, a Machine Learning Data Scientist with a strong backgr
 ## Machine Learning Stack
 
 - 👀 Supervised Learning
-  - SVMs, Random Forests, Naive-Bayes, KNNs, Decision Trees
+  - SVMs, Random Forests, KNNs, Decision Trees
 - 🎲 SHAP Analysis
 - 🌎 Big Data
   - Hadoop

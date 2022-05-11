@@ -27,7 +27,9 @@ I'm **Jamie Howie** 🥑, a Machine Learning Data Scientist with a strong backgr
 - ['Oumuamua: An Unexpected Solar System Visitor](https://nbviewer.org/github/JamieH13/Oumuamua/blob/main/%27Oumuamua%20An%20Unexpected%20Solar%20System%20Visitor.pdf)
 A statistical analysis of the origin of the first interstellar object detected in our solar system
 
+## Courses
 
+[Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/SKEB3WCPX5TX)
 
 
 <!--

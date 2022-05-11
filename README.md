@@ -18,7 +18,7 @@ I'm **Jamie Howie** 🥑, a Machine Learning Data Scientist with a strong backgr
   - SVMs, Random Forests, KNNs, Decision Trees
 - 🎲 SHAP Analysis
 - 🌎 Big Data
-  - Hadoop
+  - Hadoop, Pyspark
 - 🧬 Genetic Algorithms
 
 🌱 I’m currently experimenting with Natural Language Processing (NLP) and Deep Learning (keras, tensorflow)

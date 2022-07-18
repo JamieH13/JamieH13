@@ -31,6 +31,7 @@ A statistical analysis of the origin of the first interstellar object detected i
 
 [Using Python to Access Web Data](https://www.coursera.org/account/accomplishments/certificate/SKEB3WCPX5TX)
 
+[Specialized Models: Time Series and Survival Analysis](https://www.coursera.org/account/accomplishments/certificate/W9E6M7FCAB7T)
 
 <!--
 **JamieH13/JamieH13** is ca ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

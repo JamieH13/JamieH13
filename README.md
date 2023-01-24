@@ -24,6 +24,8 @@ I'm **Jamie Howie** 🥑, a Machine Learning Data Scientist with a strong backgr
 🌱 I’m currently experimenting with Natural Language Processing (NLP) and Deep Learning (keras, tensorflow)
 
 ## Projects
+- [A simple MLOPs pipeline](https://github.com/JamieH13/simple_MLOPs_pipeline)
+A simple expandible MLOPs pipeline using OOP. Demonstrates the principles of maintainble, expandable code, repeatable experiments, and data versioning
 - ['Oumuamua: An Unexpected Solar System Visitor](https://nbviewer.org/github/JamieH13/Oumuamua/blob/main/%27Oumuamua%20An%20Unexpected%20Solar%20System%20Visitor.pdf)
 A statistical analysis of the origin of the first interstellar object detected in our solar system
 
